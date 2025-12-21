@@ -1,6 +1,6 @@
  🚀 AstraLaunch - AI SaaS Landing Page
 
-Live Demo: [![Astralaunch Dashboard](https://github.com/JOEINTERCOM/AstraLaunch/blob/main/Screenshot%202025-12-20%20184221.png?raw=true)](https://astralaunch.netlify.app)
+Live Demo: [![Astralaunch Dashboard](https://github.com/JOEINTERCOM/AstraLaunch/blob/main/Screenshot%202025-12-20%20184221.png?raw=true)](https://joeintercom.github.io/Neura-X/)
 
 🌟 Project Overview
 AstraLaunch showcases an AI-powered SaaS landing page with automated page building, behavioral insights, and conversion optimization. Features hero sections, pricing tiers, and sample testimonials (demo content only, not real client reviews).
@@ -18,12 +18,12 @@ AstraLaunch showcases an AI-powered SaaS landing page with automated page buildi
 • CSS3 Flexbox + Grid Layouts
 • Responsive Media Queries
 • Modern Animations & Gradients
-• Netlify Instant Deployment
+• Github Pages Instant Deployment
 
 
 🚀 Quick Deploy Steps
 1. Download project folder
-2. Drag & drop to Netlify dashboard
+2. Drag & drop to Github Pages dashboard
 3. Live instantly - SaaS showcase ready
 
 ---

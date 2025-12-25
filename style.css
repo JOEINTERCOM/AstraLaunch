@@ -75,7 +75,7 @@
     .navbar {
       position: sticky; top: 0; z-index: 100; backdrop-filter: blur(25px) saturate(180%);
       background: rgba(10,15,29,0.97); border-bottom: 1px solid var(--glass-border);
-      padding: 1.2rem 0; box-shadow: 0 2px 20px rgba(0,0,0,0.3);
+      box-shadow: 0 2px 20px rgba(0,0,0,0.3);
     }
     .nav-container {
       max-width: 1200px; margin: 0 auto; padding: 0 2rem;
@@ -86,7 +86,7 @@
     }
     .nav-link {
       position: relative; font-weight: 600; font-size: 1.05rem; color: var(--text-secondary);
-      padding: 1rem 0.5rem; transition: all 0.45s var(--ease-water);
+       transition: all 0.45s var(--ease-water);
       text-decoration: none;
     }
     .nav-link::before {
@@ -438,3 +438,4 @@ footer p {
     transform: translateY(0);
   }
 }
+
